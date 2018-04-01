@@ -1,0 +1,290 @@
+[
+  {
+    "Contract": "cs1705",
+    "Robot": "BollBreak",
+    "ID": 1,
+    "Params": {
+      "N": 9
+    }
+  },
+  {
+    "Contract": "v1705",
+    "Robot": "BollBreak",
+    "ID": 2,
+    "Params": {
+      "N": 19
+    }
+  },
+  {
+    "Contract": "c1705",
+    "Robot": "BollBreak",
+    "ID": 3,
+    "Params": {
+      "N": 8
+    }
+  },
+  {
+    "Contract": "jd1705",
+    "Robot": "BollBreak",
+    "ID": 4,
+    "Params": {
+      "N": 10
+    }
+  },
+  {
+    "Contract": "l1705",
+    "Robot": "BollBreak",
+    "ID": 5,
+    "Params": {
+      "N": 10
+    }
+  },
+  {
+    "Contract": "pp1705",
+    "Robot": "BollBreak",
+    "ID": 6,
+    "Params": {
+      "N": 16
+    }
+  },
+  {
+    "Contract": "ru1705",
+    "Robot": "BollBreak",
+    "ID": 8,
+    "Params": {
+      "N": 19
+    }
+  },
+  {
+    "Contract": "rb1705",
+    "Robot": "BollBreak",
+    "ID": 9,
+    "Params": {
+      "N": 8
+    }
+  },
+  {
+    "Contract": "hc1705",
+    "Robot": "BollBreak",
+    "ID": 10,
+    "Params": {
+      "N": 19
+    }
+  },
+  {
+    "Contract": "bu1706",
+    "Robot": "BollBreak",
+    "ID": 11,
+    "Params": {
+      "N": 7
+    }
+  },
+  {
+    "Contract": "ZC705",
+    "Robot": "BollBreak",
+    "ID": 12,
+    "Params": {
+      "N": 20
+    }
+  },
+  {
+    "Contract": "CF705",
+    "Robot": "BollBreak",
+    "ID": 13,
+    "Params": {
+      "N": 18
+    }
+  },
+  {
+    "Contract": "p1705",
+    "Robot": "BollBreak",
+    "ID": 14,
+    "Params": {
+      "N": 7
+    }
+  },
+  {
+    "Contract": "jm1705",
+    "Robot": "BollBreak",
+    "ID": 15,
+    "Params": {
+      "N": 19
+    }
+  },
+  {
+    "Contract": "i1705",
+    "Robot": "BollBreak",
+    "ID": 16,
+    "Params": {
+      "N": 16
+    }
+  },
+  {
+    "Contract": "MA705",
+    "Robot": "BollBreak",
+    "ID": 17,
+    "Params": {
+      "N": 15
+    }
+  },
+  {
+    "Contract": "y1705",
+    "Robot": "BollBreak",
+    "ID": 18,
+    "Params": {
+      "N": 17
+    }
+  },
+  {
+    "Contract": "OI705",
+    "Robot": "BollBreak",
+    "ID": 19,
+    "Params": {
+      "N": 19
+    }
+  },
+  {
+    "Contract": "a1705",
+    "Robot": "BollBreak",
+    "ID": 20,
+    "Params": {
+      "N": 7
+    }
+  },
+  {
+    "Contract": "j1705",
+    "Robot": "BollBreak",
+    "ID": 21,
+    "Params": {
+      "N": 19
+    }
+  },
+  {
+    "Contract": "FG705",
+    "Robot": "BollBreak",
+    "ID": 22,
+    "Params": {
+      "N": 11
+    }
+  },
+  {
+    "Contract": "SR705",
+    "Robot": "BollBreak",
+    "ID": 23,
+    "Params": {
+      "N": 11
+    }
+  },
+  {
+    "Contract": "RM705",
+    "Robot": "BollBreak",
+    "ID": 24,
+    "Params": {
+      "N": 5
+    }
+  },
+  {
+    "Contract": "m1705",
+    "Robot": "BollBreak",
+    "ID": 25,
+    "Params": {
+      "N": 5
+    }
+  },
+  {
+    "Contract": "TA705",
+    "Robot": "BollBreak",
+    "ID": 26,
+    "Params": {
+      "N": 10
+    }
+  },
+  {
+    "Contract": "zn1703",
+    "Robot": "BollBreak",
+    "ID": 27,
+    "Params": {
+      "N": 20
+    }
+  },
+  {
+    "Contract": "ni1705",
+    "Robot": "BollBreak",
+    "ID": 28,
+    "Params": {
+      "N": 11
+    }
+  },
+  {
+    "Contract": "al1703",
+    "Robot": "BollBreak",
+    "ID": 29,
+    "Params": {
+      "N": 10
+    }
+  },
+  {
+    "Contract": "cu1703",
+    "Robot": "BollBreak",
+    "ID": 30,
+    "Params": {
+      "N": 9
+    }
+  },
+  {
+    "Contract": "au1706",
+    "Robot": "BollBreak",
+    "ID": 31,
+    "Params": {
+      "N": 6
+    }
+  },
+  {
+    "Contract": "ag1706",
+    "Robot": "BollBreak",
+    "ID": 32,
+    "Params": {
+      "N": 5
+    }
+  },
+  {
+    "Contract": "sn1705",
+    "Robot": "BollBreak",
+    "ID": 33,
+    "Params": {
+      "N": 18
+    }
+  },
+  {
+    "Contract": "pb1705",
+    "Robot": "BollBreak",
+    "ID": 34,
+    "Params": {
+      "N": 8
+    }
+  },
+  {
+    "Contract": "WH705",
+    "Robot": "BollBreak",
+    "ID": 35,
+    "Params": {
+      "N": 11
+    }
+  },
+  {
+    "Contract": "SF705",
+    "Robot": "BollBreak",
+    "ID": 36,
+    "Params": {
+      "N": 18
+    }
+  },
+  {
+    "Contract": "SM705",
+    "Robot": "BollBreak",
+    "ID": 37,
+    "Params": {
+      "N": 10
+    }
+  }
+]
